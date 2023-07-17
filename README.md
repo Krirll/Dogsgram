@@ -15,7 +15,11 @@ Android приложение ***Dogsgram*** позволяет смотреть 
 
 
 # Результат
-<img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_230358.png" alt="drawing" width="500"/>
-<img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_230427.png" alt="drawing" width="500"/>
-<img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_232100.png" alt="drawing" width="500"/>
-<img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screen_Recording_20230717_231038_Dogsgram_1.gif" alt="drawing" width="500"/>
+<p>
+  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_230358.png" alt="drawing" width="500"/>
+  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_230427.png" alt="drawing" width="500"/>
+</p>
+<p>
+  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_232100.png" alt="drawing" width="500"/>
+  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screen_Recording_20230717_231038_Dogsgram_1.gif" alt="drawing" width="500"/>
+</p>
