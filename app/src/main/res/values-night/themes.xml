@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme.Dogsgram" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="trackTint">@color/corgi</item>
+        <item name="thumbTint">@color/white_transparent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:navigationBarColor">
+            @android:color/transparent
+        </item>
+
+        <item name="android:statusBarColor">
+            @android:color/transparent
+        </item>
+
+        <item name="android:windowLightStatusBar">
+            false
+        </item>
+    </style>
+</resources>

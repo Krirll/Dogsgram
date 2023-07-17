@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dogsgram</string>
+    <string name="background">background</string>
+    <string name="dogsgram">Dogsgram</string>
+    <string name="more">more</string>
+    <string name="example_text">It is my best friend\nPlease 🙏 like me and share this photo with your friends!\nSome text for example\nHave a nice day!\nBye bye!</string>
+    <string name="user_name">User name</string>
+</resources>
