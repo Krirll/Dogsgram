@@ -15,7 +15,7 @@ Android приложение ***Dogsgram*** позволяет смотреть 
 
 
 # Результат
-## Светлая и темная тема
+## Светлая и темная темы
 <p>
   <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_230358.png" alt="drawing" width="350"/>
   <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_230427.png" alt="drawing" width="350"/>
