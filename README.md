@@ -1,6 +1,6 @@
 # Описание
 Android приложение ***Dogsgram*** позволяет смотреть фотографии наших лучших друзей в стиле Instagram.\
-В приложении предусмотрен выбор темной и светлой темы.\
+В приложении предусмотрен выбор темной и светлой тем.\
 При запуске приложения тема выставляется в соответствии с системной темой.\
 Кнопки являются декоративными и никакой работоспособности не имеют.
 
@@ -15,11 +15,14 @@ Android приложение ***Dogsgram*** позволяет смотреть 
 
 
 # Результат
+## Светлая и темная темы
 <p>
-  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_230358.png" alt="drawing" width="500"/>
-  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_230427.png" alt="drawing" width="500"/>
+  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_230358.png" alt="drawing" width="350"/>
+  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_230427.png" alt="drawing" width="350"/>
 </p>
+
+## Изображение работы кнопок и процесс загрузки 
 <p>
-  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_232100.png" alt="drawing" width="500"/>
-  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screen_Recording_20230717_231038_Dogsgram_1.gif" alt="drawing" width="500"/>
+  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screenshot_20230717_232100.png" alt="drawing" width="350"/>
+  <img src="https://github.com/Krirll/Dogsgram/blob/master/readme-images/Screen_Recording_20230717_231038_Dogsgram_1.gif" alt="drawing" width="350"/>
 </p>
